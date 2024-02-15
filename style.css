@@ -61,6 +61,8 @@ li:hover {
 }
 #side-bar.active{
   left: 0;
+  border-right: 2px solid black;
+  box-shadow: 5px 0px 10px RGBA(1, 251, 186,0.5);
 }
 .active span{
   position: absolute;
